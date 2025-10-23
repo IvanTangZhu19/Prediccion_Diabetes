@@ -1,4 +1,4 @@
-,Gender,AGE,Urea,Cr,HbA1c,Chol,TG,VLDL,BMI,Class
+ID,Gender,AGE,Urea,Cr,HbA1c,Chol,TG,VLDL,BMI,Class
 0,0,50,4.7,46,4.9,4.2,0.9,0.5,24.0,0
 1,1,26,4.5,62,4.9,3.7,1.4,0.6,23.0,0
 2,1,33,7.1,46,4.9,4.9,1.0,0.4,21.0,0
